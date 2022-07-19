@@ -1,0 +1,23 @@
+body {
+    background-color: salmon;
+    color: white;
+    font-family: 'helvetica', 'arial', 'sans-serif';
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.list-parent {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
